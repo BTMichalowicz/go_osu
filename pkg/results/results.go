@@ -14,7 +14,7 @@ import (
 	"strings"
 
 	"github.com/360EntSecGroup-Skylar/excelize"
-	"github.com/gvallee/go_util/pkg/notation"
+	"github.com/BTMichalowicz/go_util/pkg/notation"
 )
 
 type DataPoint struct {
